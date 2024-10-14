@@ -1,0 +1,43 @@
+# > Bahamut
+PROCESS-NAME,tw.com.gamer.android.animad
+DOMAIN-SUFFIX,bahamut.com.tw
+DOMAIN-SUFFIX,gamer.com.tw
+DOMAIN,bahamut.akamaized.net
+DOMAIN,gamer-cds.cdn.hinet.net
+DOMAIN,gamer2-cds.cdn.hinet.net
+# > KKTV
+USER-AGENT,KKTV*
+USER-AGENT,com.kktv*
+DOMAIN-SUFFIX,kktv.me
+DOMAIN-SUFFIX,kktv.com.tw
+DOMAIN,kktv-theater.kk.stream
+DOMAIN,theater-kktv.cdn.hinet.net
+# > CATCHPLAY+
+USER-AGENT,CATCHPLAY*
+DOMAIN-SUFFIX,catchplay.com
+DOMAIN,asiaplay-origin.s3.amazonaws.com
+DOMAIN,tra-ww000-cp.akamaized.net
+DOMAIN,ols-ww000-cp.akamaized.net
+DOMAIN,ols-ww100-cp.akamaized.net
+# > Line TV
+USER-AGENT,LINE%20TV*
+USER-AGENT,LINE*
+DOMAIN,d3c7rimkq79yfu.cloudfront.net
+DOMAIN-SUFFIX,d3c7rimkq79yfu.cloudfront.net
+DOMAIN-SUFFIX,linetv.tw
+# > 台湾好
+USER-AGENT, TaiwanGood*
+DOMAIN-SUFFIX, skyking.com.tw
+DOMAIN, hamifans.emome.net
+# > Friday
+USER-AGENT,friDay*
+DOMAIN-SUFFIX,friday.tw
+DOMAIN-SUFFIX,fridaylogger.com
+DOMAIN,aka01p.akamaized.net
+
+# > myVideo
+USER-AGENT,myVideo*
+DOMAIN-SUFFIX,myvideo.net.tw
+DOMAIN-SUFFIX,catch.net.tw
+DOMAIN,applemediaservice.keydelivery.southeastasia.media.azure.net
+DOMAIN,akamaiendpoint-applemediaservice-aase.streaming.media.azure.net
